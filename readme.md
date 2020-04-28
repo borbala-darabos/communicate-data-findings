@@ -1,4 +1,4 @@
-# Loan Data from Prosper - Exploration
+# Loan Data from Prosper
 ## by Borbala Darabos
 
 
